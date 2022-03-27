@@ -21,5 +21,3 @@ def two_sum(numbers, target):
                 return (i, j)
     return False
 
-
-
